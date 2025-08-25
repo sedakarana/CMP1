@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=TasarimCalismasi
+PRODUCT_BUNDLE_IDENTIFIER=com.sedakarana.tasarimcalismasi.TasarimCalismasi$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
